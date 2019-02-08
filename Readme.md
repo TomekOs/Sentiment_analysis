@@ -3,7 +3,7 @@
 
 **Project name:** Sentiment analysis for IMDB reviews <br>
 Autor: Tomasz Ostaszewicz <br>
-Implementation: pandas, matplotlib, scikit-learn, keras.
+Implementation: Pandas, Matplotlib, Scikit-learn, Keras.
 
 **Description:** This is sentiment analysis for IMDB reviews. The aim of the analysis is to predict if movie review from IMDB is positive or negative (binary classification problem). To predict sentiment different combinations of preprocessing schemes and diffrent machine learning and deep learning models were used, including:
 
